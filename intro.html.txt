@@ -4,6 +4,10 @@
         <title>My webpage!</title>
     </head>
     <body>
+<<<<<<< HEAD
         Hello, world! hello again! hello fourth!
+=======
+        hello, world! hello again! hello thitrd! hello hello! 
+>>>>>>> 51cf2e7a005b6e1e6adee59bc30ff5b75fb29179
     </body>
 </html>
